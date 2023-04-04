@@ -1,3 +1,16 @@
 # discordthemeskalmar
 g
-NIGEROS
+g
+g
+g
+g
+
+g
+g
+g
+g
+g
+g
+g
+g
+
