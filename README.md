@@ -1,2 +1,3 @@
 # discordthemeskalmar
 g
+NIGEROS
