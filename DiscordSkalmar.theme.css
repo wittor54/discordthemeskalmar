@@ -6,3 +6,12 @@
 .perksModalContentWrapper-2HU6uL {
   background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
 }
+
+#app-mount .app-2CXKsg, 
+#app-mount .layers-OrUESM,
+.privateChannels-oVe7HL,
+.container-1eFtFS,
+#app-mount .layer-86YKbF,
+.bg-1QIAus {
+  background-color: transparent;
+}
