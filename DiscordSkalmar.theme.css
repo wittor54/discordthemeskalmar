@@ -1,0 +1,8 @@
+ --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+
+/* I. App Window */
+#app-mount,
+.container-2RRFHK,
+.perksModalContentWrapper-2HU6uL {
+  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
+}
